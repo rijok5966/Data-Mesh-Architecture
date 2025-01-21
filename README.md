@@ -11,3 +11,6 @@
     - Self-serve data infrastructure for empowering domain teams.
     - Federated governance to balance autonomy and consistency.
     - Comparative Analysis: Detailed comparison of Data Mesh with Data Warehouses, Data Lakes, and Data Lakehouses.
+
+# Repository Contents
+  - Report: A comprehensive PDF detailing the evolution of Data Mesh, its principles, and business applications.
